@@ -14,8 +14,7 @@ Passionate full-stack and AI developer building impactful, real-world applicatio
 ![](https://streak-stats.demolab.com/?user=tithisahu06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tithisahu06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tithisahu06&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 
